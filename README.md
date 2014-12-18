@@ -20,7 +20,7 @@ Download and extract the repo to:
 
 ## Learn Go
 
-### Bughunt!
+### Let's go hunting!
 
 Some nasty bugs are crawling around our repo! Follow the instructions below to squash them.
 
