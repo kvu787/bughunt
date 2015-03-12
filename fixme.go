@@ -1,7 +1,4 @@
-/*
-	This program prints the sum of several vectors.
-	Most of Go language features that we'll use to develop Pong are covered here.
-*/
+// This program prints the sum of several vectors.
 
 /**************/
 /*** HEADER ***/
