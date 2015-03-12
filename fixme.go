@@ -58,7 +58,8 @@ func main() {
 
 // Declare a 'struct' type called 'Vector', which is similar to a Java 'class' with all fields public.
 type Vector struct {
-	X  // Declare what fields and types this 'struct' will contain
+	// Declare what fields and types this 'struct' will contain	
+	X  
 	Y int
 }
 
